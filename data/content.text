@@ -1,0 +1,11 @@
+Variable	Definition	Key
+survival	Survival	0 = No, 1 = Yes
+pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd(N等票)
+sex	Sex
+Age	Age in years
+sibsp	# of siblings / spouses aboard the Titanic(兄弟姐妹)
+parch	# of parents / children aboard the Titanic(父母/子女)
+ticket	Ticket numbewr(票号)
+fare	Passenger fare(票价)
+cabin	Cabin number(船舱号)
+embarked	Port of Embarkation(始发地)
